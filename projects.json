@@ -1,0 +1,25 @@
+[
+	{ 	"groupname":"BRWRY",
+		"repos":[
+			{"name":"MEAN-BRWRY"},
+			{"name":"brwry"},
+			{"name":"BRWRY-old"}
+		],
+		"author":"OEHokie"
+	},{	"groupname":"VetSavvy",
+		"repos":[
+			{"name":"VetSavvy","private":true}
+		],
+		"author":"OEHokie"
+	},{	"groupname":"Home Automation",
+		"repos":[
+			{"name":"NodeAlarmProxy"}
+		],
+		"author":"OEHokie"
+	},{	"groupname":"Other",
+		"repos":[
+			{"name":"ContextuallyMe"}
+		],
+		"author":"OEHokie"
+	}
+]

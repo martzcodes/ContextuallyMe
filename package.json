@@ -9,6 +9,8 @@
   "author": "Matt Martz",
   "license": "ISC",
   "dependencies": {
-    "express": "^3.5.0"
+    "express": "^3.5.0",
+    "moment": "^2.5.1",
+    "async": "^0.4.0"
   }
 }

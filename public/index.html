@@ -23,6 +23,10 @@
 	<script src="/lib/modernizr/modernizr.js"></script>
 	<script src="core.js"></script>
 
+	<script type="text/javascript" src="/lib/d3/d3.min.js"></script>
+
+	<link rel="stylesheet" href="/lib/cal-heatmap/cal-heatmap.css" />
+	<script type="text/javascript" src="/lib/cal-heatmap/cal-heatmap.min.js"></script>
 </head>
 <!-- SET THE CONTROLLER AND GET ALL TODOS -->
 <body>
@@ -31,7 +35,8 @@
         <h1>Welcome to Foundation</h1>
       </div>
     </div>
-    
+    githubjson: {{githubdata}}
+    githubactual: {{status}} {{githubactual}}
     <div class="row">
       <div class="large-12 columns">
       	<div class="panel">
